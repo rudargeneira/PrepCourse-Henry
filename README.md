@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio 2 del prep course henry 
+cambio del archivo readme
